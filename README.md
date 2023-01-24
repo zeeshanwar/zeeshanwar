@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is Zeeshan Anwar.
+I'm an Aspiring Frontend Developer.
+Learning and Growing!
+
 <!--
 **zeeshanwar/zeeshanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
