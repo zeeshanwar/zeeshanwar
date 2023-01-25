@@ -45,7 +45,7 @@ body {
 }
 
 .pageimage {
-  background: url(/images/zeeshan-1-black-resized.jpg);
+  background: url("/images/zeeshan-1-black-resized.jpg");
   background-size: cover;
   width: 100%;
   height: 100vh;
@@ -157,7 +157,6 @@ header.stickyheader .navitems:after {
   padding: 0px;
   font-family: "Alegreya";
   color: #5288bb;
-  font-size: 66px;
   font-weight: bolder;
   word-spacing: 5px;
 }
@@ -170,6 +169,7 @@ header.stickyheader .navitems:after {
 }
 
 .name {
+  font-size: 66px;
   color: #eb1f48;
 }
 
@@ -637,6 +637,18 @@ header.stickyheader .navitems:after {
   header {
     zoom: 50%;
   }
+  .greeting {
+    font-size: 22px;
+  }
+  .name {
+    font-size: 52px;
+  }
+  .designation {
+    font-size: 28px;
+  }
+  .designation span {
+    font-size: 28px;
+  }
   .topright {
     display: none;
   }
@@ -658,5 +670,8 @@ header.stickyheader .navitems:after {
   }
   .projectimg {
     display: none;
+  }
+  .contactleft {
+    margin-left: 5vw;
   }
 }/*# sourceMappingURL=style.css.map */

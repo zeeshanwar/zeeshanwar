@@ -71,7 +71,7 @@ body {
 }
 
 .pageimage {
-     background: url(/images/zeeshan-1-black-resized.jpg);
+     background: url('/images/zeeshan-1-black-resized.jpg');
      background-size: cover;
      // border: 3px solid orange;
      width: 100%;
@@ -275,7 +275,6 @@ main {
           padding: 0px;
           font-family: 'Alegreya';
           color: $tertiarycolor;
-          font-size: 66px;
           font-weight: bolder;
           word-spacing:5px;
      }
@@ -286,10 +285,11 @@ main {
      p{
           font-size: 24px;
      }
-
+     
 }
 
 .name {
+     font-size: 66px;
      color: $primarycolor;
      // font-family: 'Redressed';
      // font-family: 'Rajdhani', sans-serif;
@@ -1056,9 +1056,28 @@ main {
 
 
 @media screen and (max-width: 600px) {
-     
+
+     // .pageimage{
+     //      background: url('/images/zeeshan-1-black-smallscreen.jpg');
+     // }
+
      header{
           zoom: 50%;
+     }
+
+     .greeting{
+          font-size: 22px;
+     }
+
+     .name{
+          font-size: 52px;
+     }
+
+     .designation{
+          font-size: 28px;
+          span{
+               font-size: 28px;
+          }
      }
 
      .topright{
@@ -1093,5 +1112,8 @@ main {
           display: none;
      }
 
+     .contactleft{
+          margin-left: 5vw;
+     }
 
 }
