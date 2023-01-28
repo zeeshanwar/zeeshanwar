@@ -14,24 +14,40 @@ window.addEventListener('scroll', ()=>{
 })
 
 
-console.log(document.getElementById('inputmail').value);
+let nameinput = document.getElementById('inputname');
+let mailinput = document.getElementById('inputmail');
+let messageinput = document.getElementById('inputmessage');
+
+console.log(nameinput);
+     console.log(mailinput);
+     console.log(messageinput);
 
 
 function SendMail(){
-     
-     
-     Email.send({
 
-          Host : "smtp.elasticemail.com",
-          Username : "zeeshanwar524@gmail.com",
-          Password : "E0423AF65A45DC48C48D81E7365F3551AF63",
-          To : 'mdzeeshan4836@gmail.com',
-          From : document.getElementById('inputmail').value ,
-          Subject : "This is the subject",
-          Body : "And this is the body"
-      }).then(
-     //    message => alert(message)
-        message => alert("ThankYou for showing Interest! Your Response has been recorded")
+     console.log(nameinput.value);
+     console.log(mailinput.value);
+     console.log(messageinput.value);
 
-      );
+
+     if(nameinput.value == "" || mailinput.value == "" || messageinput.value == ""){
+          alert('Please fill out all the Fields Properly');
+     }
+
+     else{
+
+          Email.send({
+
+               Host : "smtp.elasticemail.com",
+               Username : "zeeshanwar524@gmail.com",
+               Password : "E0423AF65A45DC48C48D81E7365F3551AF63",
+               To : 'mdzeeshan4836@gmail.com',
+               From : document.getElementById('inputmail').value ,
+               Subject : "This is the subject",
+               Body : "And this is the body"
+          }).then(
+          //    message => alert(message)
+          message => alert("ThankYou for showing Interest! Your Response has been recorded")
+          );
+     }
 }

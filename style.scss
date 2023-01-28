@@ -322,6 +322,7 @@ main {
           word-spacing: 2px;
           background: $primarycolor;
           color: cornsilk;
+          transition: all 0.2s;
           
           &:hover{
                cursor: pointer;
@@ -485,6 +486,14 @@ main {
           cursor: pointer;
           background: #333333;
      }
+
+     
+
+     // > .skills:nth-child(even){
+     //      color: $secondarycolor;
+     // }
+
+
 }
 
 
@@ -500,21 +509,26 @@ main {
      // height: 36px;
      line-height: 36px;
      font-weight: 500;
+     color: $secondarycolor;
      // border: 1px solid snow;
 
-     // &:nth-of-type(odd){
-     //      color: $primarycolor;
-     // }
+
+     &:nth-child(odd){
+          color: $primarycolor;
+     }
+}
+
+     
 
      // &:nth-of-type(even){
      //      color: $secondarycolor;
      // }
-}
+
 
 .skillsbar {
      display: block;
      position: relative;
-     background: $primarycolor;
+     background: $tertiarycolor;
      height: 10px;
      margin: 13px 0px;
      // width: 100%;
@@ -573,7 +587,7 @@ main {
 #educationbox{
      border-left: 5px solid $tertiarycolor;
      // padding-left: 1px;
-     padding: 10px 0px;
+     padding: 3vh 0px;
      border-radius: 1px;
 
 }
@@ -713,6 +727,7 @@ main {
      height: 50vh;
      // text-align: center;
      flex-basis: 40%;
+     color: $tertiarycolor;
      
      i{
           line-height: 50vh;
@@ -892,6 +907,17 @@ main {
 
 
 
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
+
 // ----------Contact----------
 
 
@@ -984,7 +1010,7 @@ main {
      }
 }
 
-#messageinput{
+#inputmessage{
      resize: none;
      height: 24vh; 
 }
@@ -1040,6 +1066,22 @@ main {
           display: block;
           zoom: 80%;
      }
+
+
+     .project{
+          flex-basis: 100%;
+          height: auto;
+
+          &:hover{
+               flex-basis: 100%;
+          }
+     }
+
+     .projectimg{
+          flex-basis: 10%;
+          visibility: hidden;
+     }
+
 }
 
 @media screen and (max-width: 800px) and (min-width: 600px) {
@@ -1051,6 +1093,7 @@ main {
      .topright{
           display: none;
      }
+
 
 }
 

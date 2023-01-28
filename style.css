@@ -192,6 +192,7 @@ header.stickyheader .navitems:after {
   word-spacing: 2px;
   background: #eb1f48;
   color: cornsilk;
+  transition: all 0.2s;
 }
 .buttons:hover {
   cursor: pointer;
@@ -292,12 +293,16 @@ header.stickyheader .navitems:after {
 .skills {
   line-height: 36px;
   font-weight: 500;
+  color: #ffcc00;
+}
+.skills:nth-child(odd) {
+  color: #eb1f48;
 }
 
 .skillsbar {
   display: block;
   position: relative;
-  background: #eb1f48;
+  background: #5288bb;
   height: 10px;
   margin: 13px 0px;
   border-radius: 5px;
@@ -335,7 +340,7 @@ header.stickyheader .navitems:after {
 
 #educationbox {
   border-left: 5px solid #5288bb;
-  padding: 10px 0px;
+  padding: 3vh 0px;
   border-radius: 1px;
 }
 
@@ -417,6 +422,7 @@ header.stickyheader .navitems:after {
 .projectimg {
   height: 50vh;
   flex-basis: 40%;
+  color: #5288bb;
 }
 .projectimg i {
   line-height: 50vh;
@@ -524,6 +530,10 @@ header.stickyheader .navitems:after {
   font-size: 15px;
 }
 
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+}
+
 #contact {
   height: 100vh;
 }
@@ -592,7 +602,7 @@ header.stickyheader .navitems:after {
   margin-left: 3px;
 }
 
-#messageinput {
+#inputmessage {
   resize: none;
   height: 24vh;
 }
@@ -623,6 +633,17 @@ header.stickyheader .navitems:after {
   .aboutcontainer {
     display: block;
     zoom: 80%;
+  }
+  .project {
+    flex-basis: 100%;
+    height: auto;
+  }
+  .project:hover {
+    flex-basis: 100%;
+  }
+  .projectimg {
+    flex-basis: 10%;
+    visibility: hidden;
   }
 }
 @media screen and (max-width: 800px) and (min-width: 600px) {
