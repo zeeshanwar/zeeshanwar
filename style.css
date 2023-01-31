@@ -1,0 +1,662 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Eczar:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Redressed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Paprika&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap");
+* {
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
+  padding: 0;
+  color: blueviolet;
+  color: #ffcc00;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: black;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: gray;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #000721;
+  width: 0px;
+  opacity: 0;
+}
+
+.pageimage {
+  background: url(/images/zeeshan-1-black-resized.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: -2;
+}
+
+.pagecontainer {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.88), rgba(0, 0, 0, 0.96));
+}
+
+.pagecontainerbefore {
+  height: 50vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.01), rgba(0, 0, 0, 0.22), rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0.66), rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.8));
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 10vh;
+  padding: 2vh 10vw;
+  color: #ffcc00;
+  background: transparent;
+  z-index: 10;
+  transition: all 1s;
+}
+
+.stickyheader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 1vh 2vw;
+  height: 8vh;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background: #5288bb;
+  align-items: center;
+  transition: all 1s;
+}
+
+header.stickyheader .navitems {
+  color: #ffcc00;
+  font-weight: 400;
+  transition: all 1s;
+}
+header.stickyheader .navitems:after {
+  background: #eb1f48;
+}
+
+.logobox {
+  display: flex;
+  padding: 20px 30px 15px 0px;
+  text-align: center;
+}
+
+#logo {
+  zoom: 30%;
+}
+
+#navbar {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 20px;
+  font-weight: normal;
+}
+.navitems {
+  list-style: none;
+  color: #eb1f48;
+  padding: 20px 20px;
+  margin: 0px 10px;
+  position: relative;
+  transition: all 1s;
+}
+.navitems:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #ffcc00;
+  height: 3px;
+  width: 0;
+  border-radius: 3px;
+  transition: all 0.5s;
+}
+.navitems:hover {
+  cursor: pointer;
+}
+.navitems:hover:after {
+  width: 100%;
+}
+
+#hero {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 10vw;
+  height: 88vh;
+}
+
+.topleft {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.topleft * {
+  padding: 0px;
+  font-family: "Alegreya";
+  color: #5288bb;
+  font-size: 66px;
+  font-weight: bolder;
+  word-spacing: 5px;
+}
+
+.greeting {
+  font-size: 24px;
+}
+.greeting p {
+  font-size: 24px;
+}
+
+.name {
+  color: #eb1f48;
+}
+
+.designation {
+  font-size: 36px;
+}
+.designation span {
+  font-size: 36px;
+  color: #ffcc00;
+}
+
+.buttons {
+  font-family: "Ubuntu";
+  font-size: 17px;
+  font-weight: 500;
+  padding: 15px;
+  margin-top: 20px;
+  margin-right: 10px;
+  border-radius: 20px;
+  word-spacing: 2px;
+  background: #eb1f48;
+  color: cornsilk;
+}
+.buttons:hover {
+  cursor: pointer;
+  background: cornsilk;
+  color: #eb1f48;
+}
+
+.topright {
+  visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+#myimg {
+  height: 88vh;
+  z-index: -1;
+}
+
+.headingbox {
+  text-align: center;
+}
+
+.sechead {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  margin: 10vh 20px;
+  padding: 3vh 0px;
+  color: #fafafa;
+  color: #ffcc00;
+  font-size: 36px;
+  font-weight: bold;
+  border-radius: 20px;
+}
+.sechead span {
+  color: #eb1f48;
+}
+.sechead:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(to right, crimson, #ffcc00);
+  height: 5px;
+  width: 100%;
+  border-radius: 3px;
+  transition: all 0.5s;
+}
+.sechead:hover {
+  cursor: pointer;
+}
+#abouthead {
+  margin-top: 0px;
+}
+
+.sections {
+  margin: 0px 10vw;
+}
+
+#about {
+  border-radius: 20px;
+}
+.aboutcontainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.aboutbox {
+  flex-basis: 40%;
+  padding: 0px 50px 20px 50px;
+  border-radius: 50px;
+  background: #222222;
+  border: 10px ridge #333333;
+}
+
+.abouttitle {
+  text-align: center;
+  padding: 20px;
+  border-bottom: 1px solid red;
+  margin-bottom: 50px;
+}
+
+.skillbox {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  padding: 15px;
+  background: #222222;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+.skillbox:hover {
+  cursor: pointer;
+  background: #333333;
+}
+
+.skills {
+  line-height: 36px;
+  font-weight: 500;
+}
+
+.skillsbar {
+  display: block;
+  position: relative;
+  background: #eb1f48;
+  height: 10px;
+  margin: 13px 0px;
+  border-radius: 5px;
+}
+.skillsbar:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 8px;
+  border-radius: 3px;
+  background: #505050;
+  z-index: -1;
+}
+
+.skl-1 {
+  width: 20%;
+}
+
+.skl-2 {
+  width: 40%;
+}
+
+.skl-3 {
+  width: 60%;
+}
+
+.skl-4 {
+  width: 80%;
+}
+
+.skl-5 {
+  width: 100%;
+}
+
+#educationbox {
+  border-left: 5px solid #5288bb;
+  padding: 10px 0px;
+  border-radius: 1px;
+}
+
+.education {
+  background: #222222;
+  padding: 5px 0px;
+  border-radius: 0px 20px 20px 0px;
+}
+.education > * {
+  margin: 10px;
+  margin-left: 30px;
+}
+.education:hover {
+  background: #333333;
+}
+
+.degree {
+  color: #ffcc00;
+  position: relative;
+}
+
+.college {
+  color: #eb1f48;
+  border-left: 15px solid crimson;
+  margin-left: 0px;
+  padding-left: 15px;
+  border-radius: 0px 20px 20px 0px;
+}
+
+.academicyear {
+  color: #5288bb;
+}
+
+.servicearea {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.servicebox {
+  display: inline-block;
+  background: #333333;
+  max-height: 220px;
+  max-width: 329px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  text-align: center;
+  transition: all 0.3s;
+}
+.servicebox > * {
+  color: #eb1f48;
+  margin: 20px;
+}
+.servicebox:hover {
+  cursor: pointer;
+  background: #505050;
+  transform: translateY(-10px);
+}
+
+.servicetitle {
+  font-size: 24px;
+}
+
+.servicebody {
+  margin: 20px 0px;
+  color: #ffcc00;
+}
+
+.workarea {
+  padding: 5vh 0px;
+}
+
+.projectbox {
+  padding: 20px;
+  display: flex;
+}
+
+.projectimg {
+  height: 50vh;
+  flex-basis: 40%;
+}
+.projectimg i {
+  line-height: 50vh;
+}
+
+#pimgright {
+  text-align: right;
+}
+
+.project {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/gradienta-set2-2-unsplash.jpg");
+  background-size: cover;
+  position: relative;
+  height: 50vh;
+  flex-basis: 60%;
+  text-align: center;
+  border-radius: 10px;
+  transition: all 0.5s;
+}
+.project:hover {
+  flex-basis: 100%;
+}
+.project:hover .projectbg {
+  cursor: pointer;
+  opacity: 1;
+  filter: blur(1px);
+}
+.project:hover #projecttitle {
+  color: #ffcc00;
+}
+
+#projectright:hover .projectbg {
+  cursor: pointer;
+  opacity: 1;
+  filter: blur(1px);
+}
+
+.projectbg {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/images/gradienta-set2-1-unsplash.jpg");
+  background-size: cover;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  border-radius: 10px;
+  transition: all 1s;
+}
+.projectbg img {
+  zoom: 10%;
+}
+
+.projectcontent {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: all 0.3s;
+}
+.projectitems {
+  font-family: "Eczar";
+  color: #fafafa;
+  color: #101010;
+  margin: 3vh 3vw;
+}
+
+#projecttitle {
+  color: #eb1f48;
+  font-size: 24px;
+  font-weight: 600;
+  transition: all 0.5s;
+}
+
+#projectdur {
+  font-size: 15px;
+}
+
+#projectskills {
+  font-size: 17px;
+}
+#projectskills span {
+  font-family: "Eczar";
+  color: #101010;
+  font-weight: 600;
+}
+
+.projectlink {
+  display: inline-block;
+  background: #eb1f48;
+  color: #ffcc00;
+  margin: 0px 10px;
+  padding: 12px;
+  border-radius: 50px;
+}
+.projectlink span {
+  margin-left: 5px;
+}
+.projectlink:hover {
+  background: #c50236;
+}
+
+#projectdetails {
+  font-size: 15px;
+}
+
+#contact {
+  height: 100vh;
+}
+
+.contactarea {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contactleft {
+  flex-basis: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+#contacthead {
+  flex-basis: 20%;
+  color: #eb1f48;
+}
+
+#contactcontent {
+  flex-basis: 80%;
+}
+#contactcontent > * {
+  margin: 3vh 0px;
+}
+
+.contactdetails {
+  font-size: 20px;
+}
+.contactdetails i {
+  color: #eb1f48;
+}
+.contactdetails span {
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+#mysocialmedias {
+  margin-top: 8vh;
+}
+#mysocialmedias a i {
+  color: #fafafa;
+  margin: 3px;
+}
+#mysocialmedias a i:hover {
+  color: #bfbfbf;
+  scale: 1.29;
+}
+
+.contactright {
+  flex-basis: 50%;
+}
+.contactinput {
+  background: #222222;
+  color: #fff;
+  width: -webkit-fill-available;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 17px;
+  border: none;
+}
+.contactinput i {
+  color: cornsilk;
+  margin-left: 3px;
+}
+
+#messageinput {
+  resize: none;
+  height: 24vh;
+}
+
+#submitbtn {
+  background: #eb1f48;
+  color: cornsilk;
+  width: auto;
+  cursor: pointer;
+}
+#submitbtn:hover {
+  background: #c50236;
+}
+
+@media screen and (max-width: 1400px) and (min-width: 1000px) {
+  .sections {
+    margin: 0px 6vw;
+  }
+}
+@media screen and (max-width: 1000px) {
+  header {
+    zoom: 80%;
+    padding: 2vh 6vw;
+  }
+  .sections {
+    margin: 0px 5vw;
+  }
+  .aboutcontainer {
+    display: block;
+    zoom: 80%;
+  }
+}
+@media screen and (max-width: 800px) and (min-width: 600px) {
+  header {
+    zoom: 60%;
+  }
+  .topright {
+    display: none;
+  }
+}
+@media screen and (max-width: 600px) {
+  header {
+    zoom: 50%;
+  }
+  .topright {
+    display: none;
+  }
+  .aboutcontainer, .servicearea, .contactarea {
+    display: block;
+  }
+  .servicearea {
+    text-align: center;
+  }
+  .sections {
+    margin: 0px 3vw;
+  }
+  .project {
+    flex-basis: 100%;
+    height: auto;
+  }
+  .project:hover {
+    flex-basis: 100%;
+  }
+  .projectimg {
+    display: none;
+  }
+}/*# sourceMappingURL=style.css.map */
