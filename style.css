@@ -402,7 +402,7 @@ header.stickyheader .navitems:after {
 }
 .servicebox:hover {
   cursor: pointer;
-  background: #505050;
+  background: #5288bb;
   transform: translateY(-10px);
 }
 
@@ -638,6 +638,9 @@ header.stickyheader .navitems:after {
   .aboutcontainer {
     display: block;
     zoom: 80%;
+  }
+  .aboutbox {
+    margin: 5vh 0px;
   }
   .project {
     flex-basis: 100%;

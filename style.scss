@@ -682,7 +682,7 @@ main {
 
      &:hover{
           cursor: pointer;
-          background: $blackshade4;
+          background: $tertiarycolor;
           transform: translateY(-10px);
      }
      
@@ -1069,6 +1069,10 @@ main {
      .aboutcontainer{
           display: block;
           zoom: 80%;
+     }
+
+     .aboutbox{
+          margin: 5vh 0px;
      }
 
 
