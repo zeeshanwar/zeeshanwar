@@ -622,6 +622,11 @@ header.stickyheader .navitems:after {
   background: #c50236;
 }
 
+footer {
+  height: 10vh;
+  width: 100%;
+}
+
 @media screen and (max-width: 1400px) and (min-width: 1000px) {
   .sections {
     margin: 0px 6vw;
