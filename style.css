@@ -27,6 +27,10 @@ body {
   background: black;
 }
 
+a {
+  text-decoration: none;
+}
+
 ::-webkit-scrollbar {
   width: 0px;
   scroll-behavior: smooth;
@@ -192,6 +196,7 @@ header.stickyheader .navitems:after {
   word-spacing: 2px;
   background: #eb1f48;
   color: cornsilk;
+  border: none;
   transition: all 0.2s;
 }
 .buttons:hover {

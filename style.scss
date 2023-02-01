@@ -45,6 +45,9 @@ body {
      // align-self:center;
 }
 
+a{
+     text-decoration: none;
+}
 
 ::-webkit-scrollbar {
      width: 0px;
@@ -322,6 +325,7 @@ main {
           word-spacing: 2px;
           background: $primarycolor;
           color: cornsilk;
+          border: none;
           transition: all 0.2s;
           
           &:hover{
