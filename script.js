@@ -1,3 +1,4 @@
+
 let header = document.querySelector('.header');
 
 console.log(header);
@@ -14,13 +15,10 @@ window.addEventListener('scroll', ()=>{
 })
 
 
+
 let nameinput = document.getElementById('inputname');
 let mailinput = document.getElementById('inputmail');
 let messageinput = document.getElementById('inputmessage');
-
-console.log(nameinput);
-     console.log(mailinput);
-     console.log(messageinput);
 
 
 function SendMail(){
@@ -44,10 +42,14 @@ function SendMail(){
                To : 'mdzeeshan4836@gmail.com',
                From : document.getElementById('inputmail').value ,
                Subject : "This is the subject",
-               Body : "And this is the body"
+               Body : `Name: ${nameinput.value} <br>
+                    Email: ${mailinput.value} <br>
+                    Message: ${messageinput.value}`
+                    
           }).then(
           //    message => alert(message)
           message => alert("ThankYou for showing Interest! Your Response has been recorded")
+
           );
      }
 }
