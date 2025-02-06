@@ -11,6 +11,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Paprika&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Julee&display=swap");
 * {
   font-family: "Ubuntu", sans-serif;
   margin: 0;
@@ -49,7 +50,7 @@ a {
 }
 
 .pageimage {
-  background: url("/images/zeeshan-1-black-resized.jpg");
+  background: url("/images/zee_bg2.png");
   background-size: cover;
   width: 100%;
   height: 100vh;
@@ -229,9 +230,13 @@ header.stickyheader .navitems:after {
   padding: 3vh 0px;
   color: #fafafa;
   color: #ffcc00;
+  font-family: "ADLaM Display";
   font-size: 36px;
   font-weight: bold;
   border-radius: 20px;
+}
+.sechead * {
+  font-family: "ADLaM Display";
 }
 .sechead span {
   color: #eb1f48;
@@ -345,7 +350,8 @@ header.stickyheader .navitems:after {
 
 #educationbox {
   border-left: 5px solid #5288bb;
-  padding: 3vh 0px;
+  padding: 1vh 0px;
+  margin-bottom: 2vh;
   border-radius: 1px;
 }
 

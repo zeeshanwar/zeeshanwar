@@ -27,6 +27,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Julee&display=swap');
+
+
 * {
      font-family: 'Ubuntu', sans-serif;
      margin: 0;
@@ -74,7 +77,7 @@ a{
 }
 
 .pageimage {
-     background: url('/images/zeeshan-1-black-resized.jpg');
+     background: url('/images/zee_bg2.png');
      background-size: cover;
      // border: 3px solid orange;
      width: 100%;
@@ -276,6 +279,7 @@ main {
 
      * {
           padding: 0px;
+          // font-family: 'ADLaM Display';
           font-family: 'Alegreya';
           color: $tertiarycolor;
           font-weight: bolder;
@@ -367,9 +371,14 @@ main {
      // border-bottom: 1px solid azure;
      // border-left: 1px solid snow;
      // border-right: 1px solid snow;
+     font-family: "ADLaM Display";
      font-size: 36px;
      font-weight: bold;
      border-radius: 20px;
+
+     *{
+          font-family: "ADLaM Display";
+     }
 
 
      span{
@@ -591,7 +600,8 @@ main {
 #educationbox{
      border-left: 5px solid $tertiarycolor;
      // padding-left: 1px;
-     padding: 3vh 0px;
+     padding: 1vh 0px;
+     margin-bottom: 2vh;
      border-radius: 1px;
 
 }
