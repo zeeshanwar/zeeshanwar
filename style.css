@@ -304,6 +304,7 @@ header.stickyheader .navitems:after {
   line-height: 36px;
   font-weight: 500;
   color: #ffcc00;
+  font-family: "Exo";
 }
 .skills:nth-child(odd) {
   color: #eb1f48;
@@ -375,6 +376,7 @@ header.stickyheader .navitems:after {
 
 .college {
   color: #eb1f48;
+  font-family: "Rajdhani";
   border-left: 15px solid crimson;
   margin-left: 0px;
   padding-left: 15px;
@@ -383,6 +385,7 @@ header.stickyheader .navitems:after {
 
 .academicyear {
   color: #5288bb;
+  font-family: "Play";
 }
 
 .servicearea {
@@ -419,6 +422,8 @@ header.stickyheader .navitems:after {
 .servicebody {
   margin: 20px 0px;
   color: #ffcc00;
+  font-family: "Laila";
+  font-size: 14px;
 }
 
 .workarea {

@@ -523,6 +523,7 @@ main {
      line-height: 36px;
      font-weight: 500;
      color: $secondarycolor;
+     font-family: "Exo";
      // border: 1px solid snow;
 
 
@@ -647,6 +648,7 @@ main {
 
 
      color: $primarycolor;
+     font-family: "Rajdhani";
      border-left: $edudot solid crimson;
      margin-left: 0px;
      padding-left: $edumargin-1 - $edudot;
@@ -655,6 +657,7 @@ main {
 
 .academicyear {
      color: $tertiarycolor;
+     font-family: "Play";
 }
 
 
@@ -710,6 +713,9 @@ main {
 .servicebody{
      margin: 20px 0px;
      color: $secondarycolor;
+     font-family: "Laila";
+     // font-family: "Play";
+     font-size: 14px;
 }
 
 
