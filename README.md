@@ -7,6 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
