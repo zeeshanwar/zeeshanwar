@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, Myself Zeeshan Anwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanwar&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanwar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanwar" alt="zeeshanwar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
+<a href="https://linkedin.com/in/zeeshanwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/mainhoonzee" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,6 +19,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanwar&show_icons=true&locale=en&layout=compact" alt="zeeshanwar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&show_icons=true&locale=en" alt="zeeshanwar" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanwar&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanwar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanwar" alt="zeeshanwar" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanwar&" alt="zeeshanwar" /></p>
 
