@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/zeeshanwar" target="_blank">
+<a href="https://linkedin.com/in/zeeshanwar-524836" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/mainhoonzee" target="_blank">
