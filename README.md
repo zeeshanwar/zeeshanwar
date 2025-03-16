@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">My Tech Stack</h3>
-  <img width="10" />
+  <img height="5" />
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
