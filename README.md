@@ -12,9 +12,8 @@
 </p>
 
 <h3 align="center">My Tech Stack</h3>
-<p align="center">
-
   <img width="10" />
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -69,7 +68,7 @@
 
 <!-- <br/> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanwar&show_icons=true&locale=en&layout=compact" alt="zeeshanwar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanwar&show_icons=true&locale=en&layout=compact" alt="zeeshanwar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&show_icons=true&locale=en" alt="zeeshanwar" /></p>
 
