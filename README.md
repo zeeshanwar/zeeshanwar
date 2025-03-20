@@ -66,6 +66,7 @@
 
 <p aligh="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="zeeshanwar" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanwar" alt="zeeshanwar" />
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en" alt="zeeshanwar" />
 </p>
 
@@ -75,7 +76,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanwar&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanwar" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanwar&" alt="zeeshanwar" /></p>
+<p></p>
 
 <!--
 **zeeshanwar/zeeshanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
