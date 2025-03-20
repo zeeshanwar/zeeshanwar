@@ -64,9 +64,12 @@
 
 <!-- <br/> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="zeeshanwar" /></p>
+<p aligh="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="zeeshanwar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en" alt="zeeshanwar" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en" alt="zeeshanwar" /></p>
+<!-- <p>&nbsp;</p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanwar" alt="zeeshanwar" /></a> </p>
 
