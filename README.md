@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3 align="center">My Tech Stack</h3>
+<!-- <h3 align="center">My Tech Stack</h3> -->
   <!-- <img height="5" /> -->
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -62,6 +62,16 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <img width="10" />
+</p>
+
+## 🚀 Tech Stack  
+<p align="center">
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 </p>
 
 <img height="5"/>
