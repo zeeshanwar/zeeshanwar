@@ -45,7 +45,7 @@
 
 <!-- <p>&nbsp;</p> -->
 
-### 🏆 **GitHub Achievements**
+## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zeeshanwar&theme=onedark&margin-w=5" />
 </p>
