@@ -1,6 +1,10 @@
 <h1 align="center">Hey 👋 Myself Zeeshan Anwar</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D1&width=435&lines=Frontend+Developer;AI+and+ML+Enthusiast;Passionate+about+Coding" />
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/zeeshanwar-524836" target="_blank">
@@ -64,6 +68,14 @@
 
 <!-- <br/> -->
 
+---
+
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanwar&theme=radical" width="400"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en" alt="zeeshanwar-stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanwar&theme=tokyonight" alt="zeeshanwar-streak" />
@@ -71,6 +83,12 @@
 </p>
 
 <!-- <p>&nbsp;</p> -->
+
+### 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zeeshanwar&theme=onedark&margin-w=5" />
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshanwar" alt="zeeshanwar" /></a> </p>
 
