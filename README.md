@@ -29,7 +29,7 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&show_icons=true&theme=radical" width="500"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanwar&theme=radical" width="500"/>
