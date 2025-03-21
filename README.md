@@ -64,7 +64,7 @@
 
 <!-- <br/> -->
 
-<p aligh="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en" alt="zeeshanwar-stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanwar&theme=tokyonight" alt="zeeshanwar-streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="zeeshanwar-toplangs" />
