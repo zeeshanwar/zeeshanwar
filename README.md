@@ -65,14 +65,11 @@
 </p>
 
 ## 🚀 Tech Stack  
+## 🚀 Tech Stack
 <p align="center">
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,materialui,nodejs,express,mysql,postgresql,mongodb,git,docker,kubernetes,tensorflow,pytorch,opencv" />
 </p>
+
 
 <img height="5"/>
 
