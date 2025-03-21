@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D1&width=435&lines=Frontend+Developer;AI+and+ML+Enthusiast;Passionate+about+Coding" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D1&width=435&lines=Frontend+Developer;AI+and+ML+Enthusiast;Passionate+about+Coding" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -72,7 +72,7 @@
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&show_icons=true&theme=dracula" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanwar&theme=radical" width="400"/>
 </p>
 
