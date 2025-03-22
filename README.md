@@ -21,7 +21,7 @@
         <img src="https://skillicons.dev/icons?i=linkedin" width="50">
     </a>
     <a href="https://leetcode.com/zeeshanwar" target="_blank">
-        <img src="https://skillicons.dev/icons?i=leetcode" width="50">
+        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50">
     </a>
     <a href="https://stackoverflow.com/users/20818207" target="_blank">
         <img src="https://skillicons.dev/icons?i=stackoverflow" width="50">
