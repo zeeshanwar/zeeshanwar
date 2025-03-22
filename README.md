@@ -18,15 +18,18 @@
 ---
 
 ## 🚀 Tech Stack
+
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=dev,python,react,js,html,css,figma,sass,tailwind,bootstrap,materialui,xd,photoshop,nodejs,express,mysql,sqlite,mongodb,java,c,npm,bash,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode" />
+  <img align="center" src="https://skillicons.dev/icons?i=htmx,python,react,js,html,css,figma,sass,tailwind,bootstrap,materialui,xd,photoshop,nodejs,express,mysql,sqlite,mongodb,java,c,npm,bash,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode" />
 </p>
 
 ## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dev,vscode,react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,sass,redux,contextapi,nodejs,express,java,python,cpp,php,r,graphql,sqlite,mysql,postgresql,mongodb,firebase,redis,prisma,supabase,git,github,gitlab,bitbucket,docker,kubernetes,linux,bash,nginx,aws,gcp,azure,cloudflare,vercel,netlify,postman,figma,xd,photoshop,illustrator,blender,tensorflow,pytorch,opencv,scikit-learn,fastapi,flask,django,selenium,astro,threejs,chartjs,wordpress,woocommerce,strapi,spark,kafka,hive,cassandra,neo4j,couchdb,dynamodb" />
-</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=devto,vscode,react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,sass,redux,contextapi,nodejs,express,java,python,cpp,php,r,graphql,sqlite,mysql,postgresql,mongodb,firebase,redis,prisma,supabase,git,github,gitlab,bitbucket,docker,kubernetes,linux,bash,nginx,aws,gcp,azure,cloudflare,vercel,netlify,postman,figma,xd,photoshop,illustrator,blender,tensorflow,pytorch,opencv,scikit-learn,fastapi,flask,django,selenium,astro,threejs,chartjs,wordpress,woocommerce,strapi,spark,kafka,hive,cassandra,neo4j,couchdb,dynamodb" />
+  </a>
+</p>
 
 <img height="5"/>
 
@@ -35,14 +38,13 @@
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshanwar&show_icons=true&theme=radical" width="500"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanwar&theme=radical" width="500"/>
 </p>
 
-
 ---
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanwar&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="zeeshanwar-toplangs" />
@@ -51,10 +53,10 @@
 ---
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zeeshanwar&theme=onedark&margin-w=5" />
 </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanwar&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanwar" /> </p>
 
