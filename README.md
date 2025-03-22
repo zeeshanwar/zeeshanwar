@@ -19,12 +19,12 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=code,python,react,js,html,css,figma,sass,tailwind,bootstrap,materialui,xd,photoshop,nodejs,express,mysql,sqlite,mongodb,java,c,npm,bash,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode" />
+  <img align="center" src="https://skillicons.dev/icons?i=dev,python,react,js,html,css,figma,sass,tailwind,bootstrap,materialui,xd,photoshop,nodejs,express,mysql,sqlite,mongodb,java,c,npm,bash,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode" />
 </p>
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=code,vscode,react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,sass,redux,contextapi,nodejs,express,java,python,cpp,php,r,graphql,sqlite,mysql,postgresql,mongodb,firebase,redis,prisma,supabase,git,github,gitlab,bitbucket,docker,kubernetes,linux,bash,nginx,aws,gcp,azure,cloudflare,vercel,netlify,postman,figma,xd,photoshop,illustrator,blender,tensorflow,pytorch,opencv,scikit-learn,fastapi,flask,django,selenium,astro,threejs,chartjs,wordpress,woocommerce,strapi,spark,kafka,hive,cassandra,neo4j,couchdb,dynamodb" />
+  <img src="https://skillicons.dev/icons?i=dev,vscode,react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,sass,redux,contextapi,nodejs,express,java,python,cpp,php,r,graphql,sqlite,mysql,postgresql,mongodb,firebase,redis,prisma,supabase,git,github,gitlab,bitbucket,docker,kubernetes,linux,bash,nginx,aws,gcp,azure,cloudflare,vercel,netlify,postman,figma,xd,photoshop,illustrator,blender,tensorflow,pytorch,opencv,scikit-learn,fastapi,flask,django,selenium,astro,threejs,chartjs,wordpress,woocommerce,strapi,spark,kafka,hive,cassandra,neo4j,couchdb,dynamodb" />
 </p>
 
 
