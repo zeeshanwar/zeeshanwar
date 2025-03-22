@@ -39,18 +39,22 @@
 
 <div align="center">
     <a href="https://linkedin.com/in/yourprofile" target="_blank">
-        <img src="https://media.giphy.com/media/hWZBZjMMuMl7sZ32dM/giphy.gif" width="50" height="50"/>
+        <img src="https://github.com/Pluralsight/gifs/blob/main/social/linkedin.gif?raw=true" width="50" />
     </a>
     <a href="https://twitter.com/yourprofile" target="_blank">
-        <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50" height="50"/>
+        <img src="https://github.com/Pluralsight/gifs/blob/main/social/twitter.gif?raw=true" width="50" />
     </a>
     <a href="https://github.com/zeeshanwar" target="_blank">
-        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" height="50"/>
+        <img src="https://github.com/Pluralsight/gifs/blob/main/social/github.gif?raw=true" width="50" />
     </a>
     <a href="mailto:yourmail@example.com">
-        <img src="https://media.giphy.com/media/HvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50"/>
+        <img src="https://github.com/Pluralsight/gifs/blob/main/social/gmail.gif?raw=true" width="50" />
+    </a>
+    <a href="https://discord.gg/yourdiscord" target="_blank">
+        <img src="https://github.com/Pluralsight/gifs/blob/main/social/discord.gif?raw=true" width="50" />
     </a>
 </div>
+
 
 
 ---
