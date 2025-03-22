@@ -20,16 +20,18 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=htmx,python,react,js,html,css,sass,tailwind,bootstrap,materialui,figma,xd,photoshop,nodejs,express,mysql,mongodb,java,c,npm,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode" />
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=htmx,python,react,js,html,css,sass,tailwind,bootstrap,materialui,figma,xd,photoshop,nodejs,express,mysql,mongodb,java,c,npm,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode,r" />
+  </a>
 </p>
 
-## 🚀 Tech Stack
 
+<!-- ## 🚀 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=devto,vscode,react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,sass,redux,contextapi,nodejs,express,java,python,cpp,php,r,graphql,sqlite,mysql,postgresql,mongodb,firebase,redis,prisma,supabase,git,github,gitlab,bitbucket,docker,kubernetes,linux,bash,nginx,aws,gcp,azure,cloudflare,vercel,netlify,postman,figma,xd,photoshop,illustrator,blender,tensorflow,pytorch,opencv,scikit-learn,fastapi,flask,django,selenium,astro,threejs,chartjs,wordpress,woocommerce,strapi,spark,kafka,hive,cassandra,neo4j,couchdb,dynamodb" />
   </a>
-</p>
+</p> -->
 
 <img height="5"/>
 
