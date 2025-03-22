@@ -20,7 +20,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=htmx,python,react,js,html,css,figma,sass,tailwind,bootstrap,materialui,xd,photoshop,nodejs,express,mysql,sqlite,mongodb,java,c,npm,bash,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode" />
+  <img align="center" src="https://skillicons.dev/icons?i=htmx,python,react,js,html,css,sass,tailwind,bootstrap,materialui,figma,xd,photoshop,nodejs,express,mysql,mongodb,java,c,npm,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode" />
 </p>
 
 ## 🚀 Tech Stack
