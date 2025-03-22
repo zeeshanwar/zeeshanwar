@@ -22,10 +22,11 @@
   <img align="center" src="https://skillicons.dev/icons?i=python,react,js,html,css,nodejs,figma,tailwind,bootstrap,materialui,nodejs,express,mysql,mongodb,java,git,github,netlify,vercel,tensorflow,pytorch,opencv" />
 </p>
 
-<!-- ## 🚀 Tech Stack
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,nodejs,express,java,python,cpp,php,graphql,sqlite,mysql,postgresql,mongodb,git,github,gitlab,docker,kubernetes,linux,bash,nginx,aws,cloudflare,vercel,netlify,postman,figma,tensorflow,pytorch,opencv,scikit-learn" />
-</p> -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,sass,redux,nodejs,express,java,python,cpp,php,r,graphql,sqlite,mysql,postgresql,mongodb,firebase,redis,git,github,gitlab,bitbucket,docker,kubernetes,linux,bash,nginx,aws,gcp,azure,cloudflare,vercel,netlify,postman,figma,xd,tensorflow,pytorch,opencv,scikit-learn,fastapi,flask,django,selenium" />
+</p>
+
 
 <img height="5"/>
 
