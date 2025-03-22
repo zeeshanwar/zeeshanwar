@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
@@ -35,7 +35,23 @@
   <a href="https://discord.gg/yourdiscord" target="_blank">
       <img src="https://skillicons.dev/icons?i=discord" width="40" />
   </a>
-</p>
+</p> -->
+
+<div align="center">
+    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+        <img src="https://media.giphy.com/media/hWZBZjMMuMl7sZ32dM/giphy.gif" width="50" height="50"/>
+    </a>
+    <a href="https://twitter.com/yourprofile" target="_blank">
+        <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/zeeshanwar" target="_blank">
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" height="50"/>
+    </a>
+    <a href="mailto:yourmail@example.com">
+        <img src="https://media.giphy.com/media/HvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50"/>
+    </a>
+</div>
+
 
 ---
 
