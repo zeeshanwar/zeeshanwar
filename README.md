@@ -18,28 +18,27 @@
 
 <div align="center">
     <a href="https://linkedin.com/in/zeeshanwar-524836" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="50">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/zeeshanwar" target="_blank">
-        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50">
+        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" alt="LeetCode">
     </a>
     <a href="https://stackoverflow.com/users/20818207" target="_blank">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" width="50">
+        <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="50" alt="Stack Overflow">
     </a>
     <a href="https://twitter.com/mainhoonzee" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" width="50">
+        <img src="https://cdn.simpleicons.org/x/000000" width="50" alt="Twitter">
     </a>
     <a href="https://instagram.com/mainhoonzee" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="50">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" alt="Instagram">
     </a>
     <a href="mailto:mdzeeshan4836@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="50">
+        <img src="https://cdn.simpleicons.org/gmail/D14836" width="50" alt="Gmail">
     </a>
     <a href="https://discord.gg/zeeshanwar" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord" width="50">
+        <img src="https://cdn.simpleicons.org/discord/5865F2" width="50" alt="Discord">
     </a>
 </div>
-
 
 
 ---
