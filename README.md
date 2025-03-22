@@ -6,42 +6,30 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/zeeshanwar-524836" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/mainhoonzee" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-</p>
 
-
-<div align="center">
-    <a href="https://linkedin.com/in/zeeshanwar-524836" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="50">
-    </a>&nbsp;&nbsp;
-    <a href="https://leetcode.com/zeeshanwar" target="_blank">
-        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50">
-    </a>&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/20818207" target="_blank">
-        <img src="https://skillicons.dev/icons?i=stackoverflow" width="50">
-    </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/mainhoonzee" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" width="50">
-    </a>&nbsp;&nbsp;
-    <a href="https://instagram.com/mainhoonzee" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="50">
-    </a>&nbsp;&nbsp;
-    <a href="mailto:mdzeeshan4836@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="50">
-    </a>&nbsp;&nbsp;
-    <a href="https://discord.gg/zeeshanwar" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord" width="50">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <a href="https://linkedin.com/in/zeeshanwar-524836" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="vertical-align: middle;">
+    </a>
+    <a href="https://leetcode.com/zeeshanwar" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" style="vertical-align: middle;">
+    </a>
+    <a href="https://stackoverflow.com/users/20818207" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" width="50" style="vertical-align: middle;">
+    </a>
+    <a href="https://twitter.com/mainhoonzee" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://skillicons.dev/icons?i=twitter" width="50" style="vertical-align: middle;">
+    </a>
+    <a href="https://instagram.com/mainhoonzee" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://skillicons.dev/icons?i=instagram" width="50" style="vertical-align: middle;">
+    </a>
+    <a href="mailto:mdzeeshan4836@gmail.com" style="text-decoration: none; display: inline-block;">
+        <img src="https://skillicons.dev/icons?i=gmail" width="50" style="vertical-align: middle;">
+    </a>
+    <a href="https://discord.gg/zeeshanwar" target="_blank" style="text-decoration: none; display: inline-block;">
+        <img src="https://skillicons.dev/icons?i=discord" width="50" style="vertical-align: middle;">
     </a>
 </div>
-
-
-
 
 
 ---
