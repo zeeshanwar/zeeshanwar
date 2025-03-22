@@ -7,8 +7,6 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<img height="3"/>
-
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://linkedin.com/in/zeeshanwar-524836" target="_blank" style="text-decoration: none; display: inline-block;">
         <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="vertical-align: middle;">
