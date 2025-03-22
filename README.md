@@ -21,10 +21,10 @@
         <img src="https://skillicons.dev/icons?i=linkedin" width="50">
     </a>
     <a href="https://leetcode.com/zeeshanwar" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30">
+        <img src="https://skillicons.dev/icons?i=leetcode" width="50">
     </a>
     <a href="https://stackoverflow.com/users/20818207" target="_blank">
-        <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" width="50">
     </a>
     <a href="https://twitter.com/mainhoonzee" target="_blank">
         <img src="https://skillicons.dev/icons?i=twitter" width="50">
@@ -33,7 +33,7 @@
         <img src="https://skillicons.dev/icons?i=instagram" width="50">
     </a>
     <a href="mailto:mdzeeshan4836@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+        <img src="https://skillicons.dev/icons?i=gmail" width="50">
     </a>
     <a href="https://discord.gg/zeeshanwar" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord" width="50">
