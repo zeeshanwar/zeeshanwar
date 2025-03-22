@@ -15,29 +15,27 @@
   </a>
 </p>
 
-
 <p align="center">
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-    </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
     
-    <a href="https://twitter.com/yourprofile" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" width="40" />
-    </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+      <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
     
-    <a href="https://github.com/zeeshanwar" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="40" />
-    </a>
+  <a href="https://github.com/zeeshanwar" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
     
-    <a href="mailto:yourmail@example.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-    </a>
+  <a href="mailto:yourmail@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
     
-    <a href="https://discord.gg/yourdiscord" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord" width="40" />
-    </a>
+  <a href="https://discord.gg/yourdiscord" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" width="40" />
+  </a>
 </p>
-
 
 ---
 
@@ -48,7 +46,6 @@
     <img align="center" src="https://skillicons.dev/icons?i=htmx,python,react,js,html,css,sass,tailwind,bootstrap,materialui,figma,xd,photoshop,nodejs,express,mysql,mongodb,java,c,npm,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode" />
   </a>
 </p>
-
 
 <!-- ## 🚀 Tech Stack
 <p align="center">
