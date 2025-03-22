@@ -15,64 +15,30 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-    
-  <a href="https://twitter.com/yourprofile" target="_blank">
-      <img src="https://skillicons.dev/icons?i=twitter" width="40" />
-  </a>
-    
-  <a href="https://github.com/zeeshanwar" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-    
-  <a href="mailto:yourmail@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-    
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-      <img src="https://skillicons.dev/icons?i=discord" width="40" />
-  </a>
-</p> -->
 
 <div align="center">
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <a href="https://linkedin.com/in/zeeshanwar-524836" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="50">
     </a>
-    <a href="https://twitter.com/yourprofile" target="_blank">
+    <a href="https://leetcode.com/zeeshanwar" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30">
+    </a>
+    <a href="https://stackoverflow.com/users/20818207" target="_blank">
+        <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30">
+    </a>
+    <a href="https://twitter.com/mainhoonzee" target="_blank">
         <img src="https://skillicons.dev/icons?i=twitter" width="50">
     </a>
-    <a href="https://github.com/zeeshanwar" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="50">
+    <a href="https://instagram.com/mainhoonzee" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="50">
     </a>
-    <a href="mailto:yourmail@example.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="50">
+    <a href="mailto:mdzeeshan4836@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
     </a>
-    <a href="https://discord.gg/yourdiscord" target="_blank">
+    <a href="https://discord.gg/zeeshanwar" target="_blank">
         <img src="https://skillicons.dev/icons?i=discord" width="50">
     </a>
 </div>
-
-
-<div align="center">
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-    </a>
-    <a href="https://twitter.com/yourprofile" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" />
-    </a>
-    <a href="https://github.com/zeeshanwar" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
-    </a>
-    <a href="mailto:yourmail@example.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
-    </a>
-</div>
-
-
-
 
 
 
