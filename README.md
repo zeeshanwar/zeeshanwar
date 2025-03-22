@@ -16,35 +16,27 @@
 </p>
 
 
-### 🌍 Let's Connect!
-
-<div align="center">
-
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-
-<a href="https://github.com/zeeshanwar" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-<a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-
-<a href="https://portfolio.yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio">
-</a>
-
-</div>
+<p align="center">
+    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    </a>
+    
+    <a href="https://twitter.com/yourprofile" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+    </a>
+    
+    <a href="https://github.com/zeeshanwar" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="40" />
+    </a>
+    
+    <a href="mailto:yourmail@example.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+    </a>
+    
+    <a href="https://discord.gg/yourdiscord" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" width="40" />
+    </a>
+</p>
 
 
 ---
