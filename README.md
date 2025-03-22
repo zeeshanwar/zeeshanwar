@@ -39,21 +39,22 @@
 
 <div align="center">
     <a href="https://linkedin.com/in/yourprofile" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="transition: 0.3s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="50">
     </a>
     <a href="https://twitter.com/yourprofile" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" width="50" style="transition: 0.3s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+        <img src="https://skillicons.dev/icons?i=twitter" width="50">
     </a>
     <a href="https://github.com/zeeshanwar" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="50" style="transition: 0.3s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+        <img src="https://skillicons.dev/icons?i=github" width="50">
     </a>
     <a href="mailto:yourmail@example.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" style="transition: 0.3s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+        <img src="https://skillicons.dev/icons?i=gmail" width="50">
     </a>
     <a href="https://discord.gg/yourdiscord" target="_blank">
-        <img src="https://skillicons.dev/icons?i=discord" width="50" style="transition: 0.3s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+        <img src="https://skillicons.dev/icons?i=discord" width="50">
     </a>
 </div>
+
 
 
 
