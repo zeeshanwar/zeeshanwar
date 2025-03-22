@@ -19,12 +19,12 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=python,react,js,html,css,contextapi,figma,sass,tailwind,bootstrap,materialui,nodejs,express,mysql,mongodb,java,c,git,github,netlify,vercel,tensorflow,pytorch,opencv" />
+  <img align="center" src="https://skillicons.dev/icons?i=python,react,js,html,css,figma,sass,tailwind,bootstrap,materialui,xd,photoshop,nodejs,express,mysql,mongodb,java,c,bash,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv" />
 </p>
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,sass,redux,nodejs,express,java,python,cpp,php,r,graphql,sqlite,mysql,postgresql,mongodb,firebase,redis,git,github,gitlab,bitbucket,docker,kubernetes,linux,bash,nginx,aws,gcp,azure,cloudflare,vercel,netlify,postman,figma,xd,tensorflow,pytorch,opencv,scikit-learn,fastapi,flask,django,selenium" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,sass,redux,nodejs,express,java,python,cpp,php,r,graphql,sqlite,mysql,postgresql,mongodb,firebase,redis,prisma,supabase,git,github,gitlab,bitbucket,docker,kubernetes,linux,bash,nginx,aws,gcp,azure,cloudflare,vercel,netlify,postman,figma,xd,tensorflow,pytorch,opencv,scikit-learn,fastapi,flask,django,selenium,astro,threejs,chartjs" />
 </p>
 
 
