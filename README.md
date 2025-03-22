@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=htmx,python,react,js,html,css,sass,tailwind,bootstrap,materialui,figma,xd,photoshop,nodejs,express,mysql,mongodb,java,c,npm,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode,r" />
+    <img align="center" src="https://skillicons.dev/icons?i=htmx,python,react,js,html,css,sass,tailwind,bootstrap,materialui,figma,xd,photoshop,nodejs,express,mysql,mongodb,java,c,npm,git,github,netlify,vercel,aws,gcp,tensorflow,pytorch,opencv,vscode" />
   </a>
 </p>
 
