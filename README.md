@@ -22,6 +22,11 @@
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,tailwind,materialui,nodejs,express,mysql,mongodb,git,tensorflow,pytorch,opencv" />
 </p>
 
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,nodejs,express,java,python,cpp,php,graphql,sqlite,mysql,postgresql,mongodb,git,github,gitlab,docker,kubernetes,linux,bash,nginx,aws,cloudflare,vercel,netlify,postman,figma,tensorflow,pytorch,opencv,scikit-learn" />
+</p>
+
 
 <img height="5"/>
 
