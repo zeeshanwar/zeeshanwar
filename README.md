@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
-    <a href="https://linkedin.com/in/zeeshanwar-524836" target="_blank">
+    <a href="https://linkedin.com/in/mdzeeshanwar" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40">
     </a>&nbsp;&nbsp;
     <a href="https://leetcode.com/zeeshanwar" target="_blank">
